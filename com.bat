@@ -1,0 +1,1 @@
+C:\"Program Files"\Unity\Editor\Unity.exe -quit -batchmode -projectPath E:\unity_test_projects\commondlinetest\commondlinetest -exportPackage Assets\Scenes Assets\Profeb Assets\Scripts Assets\Pre c.package

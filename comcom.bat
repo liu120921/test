@@ -1,0 +1,1 @@
+C:\"Program Files"\Unity\Editor\Unity.exe -batchmode -quit -nographics -executeMethod Exporter.ExportCom  -logFile Editor.log
